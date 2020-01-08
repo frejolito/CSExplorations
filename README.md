@@ -1,0 +1,2 @@
+# CSExplorations
+Class projects
